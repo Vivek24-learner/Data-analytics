@@ -6,10 +6,7 @@ Created on Sat Jun 12 05:05:07 2021
 """
 
 # -*- coding: utf-8 -*-
-"""
-Created on Sat April 4 01:46:06 2020
-@author: Abhinav
-"""
+
 
 print("hello world")
 
